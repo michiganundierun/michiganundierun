@@ -1,5 +1,5 @@
-// Set the target date to April 18th, 2025, 9 PM EST
-const targetDate = new Date('2025-04-18T21:00:00-04:00');
+// Set the target date to April 18th, 2025, 9:30 PM EST
+const targetDate = new Date('2025-04-18T21:30:00-04:00');
 
 function updateCountdown() {
     const currentDate = new Date();
